@@ -2,16 +2,6 @@
 
 MedAlert is a simple Flutter application designed to help users manage their medications efficiently. With MedAlert, users can add medication information, set schedules, and receive notifications as reminders.
 
-## Screenshots
-
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
-![Screenshot 3](screenshots/3.png)
-![Screenshot 4](screenshots/4.png)
-![Screenshot 5](screenshots/5.png)
-![Screenshot 6](screenshots/6.png)
-![Screenshot 7](screenshots/7.png)
-
 ## Features
 
 - **Medication Management**: Users can easily add and manage their medication information, including dosage, schedule, and any additional notes.
