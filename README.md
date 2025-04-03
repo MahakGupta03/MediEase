@@ -1,4 +1,4 @@
-# MedAlert
+# MediEase
 
 MedAlert is a simple Flutter application designed to help users manage their medications efficiently. With MedAlert, users can add medication information, set schedules, and receive notifications as reminders.
 
